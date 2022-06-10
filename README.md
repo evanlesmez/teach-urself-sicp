@@ -11,3 +11,6 @@ Tools:
 We recommend working through at least the first three chapters of SICP and doing the exercises."
 
 To get Brian Harvey compound procedures: `(load 'scheme/simplyscm)`
+
+
+Checkpoint: Lecture 1 36:00
