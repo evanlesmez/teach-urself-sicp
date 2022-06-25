@@ -1,8 +1,16 @@
-Applicative order evalutes argument expressions in order then.
-Normal order expands all expressions then evaluates them which can duplicated work.
+Applicative order evalutes arguments and then applies.
+Normal order fully expands then evaluates which can duplicated work.
 Scheme uses applicative order.
 
-In applicative-order, test procedure is called and the special form if statement is reaached, returning a value of 0 since x = 0. Only the first expression is called since the predicate returned true.
+In applicative-order
+0 evaluates to 0
+then p evaluates to p recursively for infinity as that is the body of the procedure. 
 
 
-In normal order, the expressions are expanded first so (p) is evaluated which recursively redifines itself over and over again infinitely. The predicate is never reached for evaluation.
+In normal orde, the operands are not evaluated until the values are needed
+(test 0 (p)) is expanded to
+
+(if (= 0 0)
+	0
+	(p)) 
+Since the predicate is true, 0 is returned without ever evaluating p
