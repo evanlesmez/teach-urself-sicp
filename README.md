@@ -1,7 +1,8 @@
-# teach-urself-sicp
+# Teach Yourrself SICP
 
 ## Checkpoint
 
+Check ex. 1.6-1.8
 Checkpoint: https://archive.org/details/ucberkeley_webcast_ogIGxEzvnSE
 
 ## What to focus on

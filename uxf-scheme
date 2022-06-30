@@ -1,0 +1,3 @@
+rlwrap mit-scheme
+
+echo "(load 'scheme/simplyscm)" 
