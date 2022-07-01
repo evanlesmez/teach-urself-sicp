@@ -4,7 +4,7 @@
 	(sqrt-iter (newton_improve guess x) x)))
 
 (define (good-enough? guess x)
-	(< (abs (- (square guess) x)) 0.001))
+	(< (abs (- (square guess) x)) (* guess 0.001))
 
 (define (square x) (* x x))
 
