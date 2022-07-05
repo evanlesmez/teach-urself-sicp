@@ -2,8 +2,7 @@
 
 ## Checkpoint
 
-Check ex. 1.6-1.8
-Checkpoint: https://archive.org/details/ucberkeley_webcast_ogIGxEzvnSE
+[Lecture Checkpoint](https://archive.org/details/ucberkeley_webcast_ZvH3wF2qg7Q)
 
 ## What to focus on
 
