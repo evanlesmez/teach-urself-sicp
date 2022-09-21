@@ -1,0 +1,17 @@
+; o = (1+ sqrt5)/2
+; hint t = (1- sqrt5)/2
+; prove that Fib(n) is closest int to o^n/5
+
+; use induction and fib def in section 1.2.2
+; Prove Fib(n) = (o^n - t^n)/sqrt5
+
+; Questions:
+; What is induction?
+; How to write a proof? 
+
+; Proofs
+; https://deopurkar.github.io/teaching/algebra1/cheng.pdf
+; https://www.khanacademy.org/math/geometry-home/geometry-miscellaneous#geometry-worked-examples
+
+; Induction
+;

@@ -1,4 +1,4 @@
-# Teach Yourrself SICP
+# Teach Yourself SICP
 
 ## Checkpoint
 
@@ -13,9 +13,14 @@ To get Brian Harvey compound procedures: `(load 'scheme/simplyscm)`
 
 ## Tools
 
+[Run a scm file](https://stackoverflow.com/a/903981/9567831)  
+
+```scm
+scheme < file.scm
+```
+
 [Which scheme interpreter to use?](https://stackoverflow.com/questions/260685/what-is-the-best-scheme-implementation-for-working-through-sicp#:~:text=Use%20MIT%20Scheme.,Interpretation%20of%20Computer%20Programs%20course.)  
 [Racket](https://racket-lang.org/)  
 [Teach Yourself CS](https://teachyourselfcs.com/#programming)  
 [Harvey lectures](https://archive.org/details/ucberkeley-webcast-PL3E89002AA9B9879E?sort=titleSorter)  
 [Exercise answers](http://community.schemewiki.org/?SICP-Solutions)
-
